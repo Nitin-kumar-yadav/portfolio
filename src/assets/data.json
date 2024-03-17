@@ -1,0 +1,32 @@
+{
+    "porjects": [
+        {
+            "date": "16/03/2024",
+            "title": "Project 1",
+            "description": "This is the sample description about the project details. The more details the more details and evenually more details the more details because I don't have anything to write",
+            "url": "https://reactone-sigma-ten.vercel.app/",
+            "image": "https://w7.pngwing.com/pngs/753/685/png-transparent-electronic-portfolio-computer-software-user-interface-design-learning-hiring-child-business-conversation-thumbnail.png"
+        },
+        {
+            "date": "16/03/2024",
+            "title": "Project 2",
+            "description": "This is the sample description about the project details. The more details the more details and evenually more details the more details because I don't have anything to write",
+            "url": "https://reactone-sigma-ten.vercel.app/",
+            "image": "https://w7.pngwing.com/pngs/753/685/png-transparent-electronic-portfolio-computer-software-user-interface-design-learning-hiring-child-business-conversation-thumbnail.png"
+        },
+        {
+            "date": "16/03/2024",
+            "title": "Project 3",
+            "description": "This is the sample description about the project details. The more details the more details and evenually more details the more details because I don't have anything to write",
+            "url": "https://reactone-sigma-ten.vercel.app/",
+            "image": "https://w7.pngwing.com/pngs/753/685/png-transparent-electronic-portfolio-computer-software-user-interface-design-learning-hiring-child-business-conversation-thumbnail.png"
+        },
+        {
+            "date": "16/03/2024",
+            "title": "Project 4",
+            "description": "This is the sample description about the project details. The more details the more details and evenually more details the more details because I don't have anything to write",
+            "url": "https://reactone-sigma-ten.vercel.app/",
+            "image": "https://w7.pngwing.com/pngs/753/685/png-transparent-electronic-portfolio-computer-software-user-interface-design-learning-hiring-child-business-conversation-thumbnail.png"
+        }
+    ]
+}
