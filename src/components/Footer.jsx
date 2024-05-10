@@ -1,12 +1,12 @@
 import React from 'react'
 import { AiFillFacebook, AiFillGithub, AiFillInstagram, AiOutlineArrowUp } from 'react-icons/ai'
-
+import footerImage from '../assets/footerImage.jpg'
 
 const Footer = () => {
     return (
         <footer>
             <div>
-                <img src="https://avatars.githubusercontent.com/u/2508652" alt="Founder" />
+                <img src={footerImage} alt="Founder" />
                 <h2>
                     Nitin Kumar
                 </h2>

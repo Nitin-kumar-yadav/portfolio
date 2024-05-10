@@ -9,14 +9,14 @@ const Home = () => {
     const clientCount = useRef(null);
     const projectCount = useRef(null);
 
-    const animationClientCount = () => {
-        animate(0, 100, {
-            duration: 1,
-            onUpdate: (v) => (clientCount.current.textContent = v.toFixed()),
-        })
-    }
+    // const animationClientCount = () => {
+    //     animate(0, 100, {
+    //         duration: 1,
+    //         onUpdate: (v) => (clientCount.current.textContent = v.toFixed()),
+    //     })
+    // }
     const animationProjectCount = () => {
-        animate(0, 500, {
+        animate(0, 100, {
             duration: 1,
             onUpdate: (v) => (projectCount.current.textContent = v.toFixed()),
         })
@@ -70,7 +70,7 @@ const Home = () => {
                         </a>
                     </div>
 
-                    <article>
+                    {/* <article>
                         <p>
                             +
 
@@ -81,7 +81,7 @@ const Home = () => {
 
                         </p>
                         <span>Client Worldwide</span>
-                    </article>
+                    </article> */}
                     <aside>
                         <article>
                             <p>

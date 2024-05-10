@@ -1,6 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { AiFillIeCircle, AiFillAndroid, AiFillWindows } from 'react-icons/ai'
+import { AiFillIeCircle, AiFillAndroid } from 'react-icons/ai'
+import { SiAlwaysdata } from "react-icons/si";
 
 const Services = () => {
 
@@ -30,7 +31,7 @@ const Services = () => {
             <h2>Services</h2>
             <section>
                 <motion.div className='serviceBox1' whileInView={animations.whileInView} initial={animations.one} >
-                    <h3>5+</h3>
+                    <h3>0+</h3>
                     <p>Year Experience</p>
                 </motion.div>
                 <motion.div className='serviceBox2' whileInView={animations.whileInView} initial={animations.towAndthree} >
@@ -44,8 +45,8 @@ const Services = () => {
                     <span>App Development</span>
                 </motion.div>
                 <motion.div className='serviceBox4' whileInView={animations.whileInView} initial={animations.four} >
-                    <AiFillWindows />
-                    <span>Desktop Development</span>
+                    <SiAlwaysdata />
+                    <span>Data Science</span>
                 </motion.div>
             </section>
         </div>
