@@ -2,10 +2,10 @@
     "porjects": [
         {
             "date": "16/03/2024",
-            "title": "Project 1",
-            "description": "This is the sample description about the project details. The more details the more details and evenually more details the more details because I don't have anything to write",
-            "url": "https://reactone-sigma-ten.vercel.app/",
-            "image": "https://w7.pngwing.com/pngs/753/685/png-transparent-electronic-portfolio-computer-software-user-interface-design-learning-hiring-child-business-conversation-thumbnail.png"
+            "title": "Book store webapp",
+            "description": "Welcome to our Book Store web application! 📚 Inspired by popular e-commerce platforms like Amazon, Flipkart, and eBay, we've created a user-friendly platform for book lovers to explore, discover, and purchase their favorite reads.",
+            "url": "https://ecommerce-book-app-beta.vercel.app//",
+            "image": "https://res.cloudinary.com/di7rq0bqs/image/upload/v1716708200/image/uqdy4klez4apqhuoletx.png"
         },
         {
             "date": "16/03/2024",
