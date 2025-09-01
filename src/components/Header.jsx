@@ -33,7 +33,7 @@ const NavContent = ({ setMenuOpen }) => {
                 <a onClick={() => setMenuOpen(false)} href="#work">Work</a>
                 <a onClick={() => setMenuOpen(false)} href="#timeline">Experience</a>
                 <a onClick={() => setMenuOpen(false)} href="#services">Services</a>
-                <a onClick={() => setMenuOpen(false)} href="https://www.canva.com/design/DAGEzpK9lFk/B9O6Mih2e1HF62begvdhFA/view?utm_content=DAGEzpK9lFk&utm_campaign=designshare&utm_medium=link&utm_source=editor" target='_blank' >Resume</a>
+                <a onClick={() => setMenuOpen(false)} href="https://www.canva.com/design/DAGxtU7fPt0/br8Yq547mAJcULKC0f49dQ/view?utm_content=DAGxtU7fPt0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf59d8bf415" target='_blank' >Resume</a>
                 <a onClick={() => setMenuOpen(false)} href="#contact">Contact</a>
             </div>
             <a href="mailto:nitinkumar94555206@gmail.com">
