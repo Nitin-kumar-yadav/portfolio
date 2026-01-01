@@ -15,7 +15,7 @@ const Footer = () => {
             <aside>
                 <h2>Socal Media</h2>
                 <article>
-                    <a href="https://www.instagram.com/nitin_kumar_0201" target='_black'><AiFillInstagram /></a>
+                    <a href="https://www.instagram.com/nitin_yadav_149" target='_black'><AiFillInstagram /></a>
                     <a href="https://www.facebook.com/profile.php?id=100074141270094" target='_black'><AiFillFacebook /></a>
                     <a href="https://www.github.com/Nitin-kumar-yadav" target='_black'><AiFillGithub /></a>
                 </article>
